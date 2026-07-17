@@ -1,8 +1,0 @@
-{
-  "name": "sre-agent-lab",
-  "version": "1.0.0",
-  "description": "Demo project for Dependabot",
-  "dependencies": {
-    "express": "4.17.1"
-  }
-}
